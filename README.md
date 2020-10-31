@@ -16,6 +16,7 @@
 # Fasttext Demo
 
 My Model Download Link: https://drive.google.com/drive/folders/1kIDJsSyesbLn42J6Fqa-kKuhhsR-efc-?usp=sharing
+
 Pre-trained Telugu Model from Fasttext is available here: https://fasttext.cc/docs/en/crawl-vectors.html 
 
 ``` streamlit run fasttext_telugu_demo.py```
@@ -46,3 +47,15 @@ Pre-trained Telugu Model from Fasttext is available here: https://fasttext.cc/do
 
 # BERT Telugu Sentence Embeddings
 ``` python bert_sentence_embeddings.py```
+
+
+# Semantic Search
+``` python semantic_search_example.py```
+
+![Image](https://github.com/kuppulur/Telugu_Experiments/blob/main/images/semantic_result.png)
+
+
+# Clustering
+``` python clustering_example.py```
+
+![Image](https://github.com/kuppulur/Telugu_Experiments/blob/main/images/cluster_result.png)
