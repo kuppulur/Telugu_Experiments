@@ -12,9 +12,6 @@ def load_model():
     custom_config = AutoConfig.from_pretrained("kuppuluri/telugu_bertu",
                                                output_hidden_states=True)
     tokenizer = AutoTokenizer.from_pretrained("kuppuluri/telugu_bertu",
-                                              unk_token='[UNK]',
-                                              sep_token='[SEP]',
-                                              cls_token='[CLS]',
                                               clean_text=False,
                                               handle_chinese_chars=False,
                                               strip_accents=False,

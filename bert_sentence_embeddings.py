@@ -7,9 +7,6 @@ from transformers import AutoTokenizer, AutoModelWithLMHead
 def load_model():
     """Load model and tokenizer."""
     tokenizer = AutoTokenizer.from_pretrained("kuppuluri/telugu_bertu",
-                                              unk_token='[UNK]',
-                                              sep_token='[SEP]',
-                                              cls_token='[CLS]',
                                               clean_text=False,
                                               handle_chinese_chars=False,
                                               strip_accents=False,
