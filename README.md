@@ -1,5 +1,7 @@
 # Telugu_Experiments
 
+In this repository, I demo some of the applications of language modeling for Telugu using a language model I trained on various Telugu Corpora.
+
 
 # Installation (Code is tested on Python 3.7.3)
 
