@@ -9,14 +9,14 @@ In this repository, I demo some of the applications of language modeling for Tel
 
 I will not actively maintain this repository. Please expect delays in my response if there are any issues posted.
 
-# Language Model Server
+# 1. Language Model Server
 
 ``` streamlit run language_model_demo.py```
 
 ![Image](https://github.com/kuppulur/Telugu_Experiments/blob/main/images/language_model.png)
 
 
-# Fasttext Demo
+# 2. Fasttext Demo
 
 My Model Download Link: https://drive.google.com/drive/folders/1kIDJsSyesbLn42J6Fqa-kKuhhsR-efc-?usp=sharing
 
@@ -27,38 +27,38 @@ Pre-trained Telugu Model from Fasttext is available here: https://fasttext.cc/do
 ![Image](https://github.com/kuppulur/Telugu_Experiments/blob/main/images/neighbors_from_fasttext.png)
 
 
-# POS and NER demo
+# 3. POS and NER demo
 
 ``` streamlit run pos_and_ner_demo.py```
 
 ![Image](https://github.com/kuppulur/Telugu_Experiments/blob/main/images/pos_and_ner.png)
 
 
-# Comprehension Demo
+# 4. Comprehension Demo
 
 ``` streamlit run comprehension_demo_telugu.py```
 
 ![Image](https://github.com/kuppulur/Telugu_Experiments/blob/main/images/comprehension.png)
 
 
-# Summarizer Demo
+# 5. Summarizer Demo
 
 ``` streamlit run summarizer_demo.py```
 
 ![Image](https://github.com/kuppulur/Telugu_Experiments/blob/main/images/summarizer.png)
 
 
-# BERT Telugu Sentence Embeddings
+# 6. BERT Telugu Sentence Embeddings
 ``` python bert_sentence_embeddings.py```
 
 
-# Semantic Search
+# 7. Semantic Search
 ``` python semantic_search_example.py```
 
 ![Image](https://github.com/kuppulur/Telugu_Experiments/blob/main/images/semantic_result.png)
 
 
-# Clustering
+# 8. Clustering
 ``` python clustering_example.py```
 
 ![Image](https://github.com/kuppulur/Telugu_Experiments/blob/main/images/cluster_result.png)
