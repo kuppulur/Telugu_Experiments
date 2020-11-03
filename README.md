@@ -2,6 +2,8 @@
 
 In this repository, I demo some of the applications of language modeling for Telugu using a language model I trained on various Telugu Corpora.
 
+https://karthikuppuluri.medium.com/language-modeling-for-%E0%B0%A4%E0%B1%86%E0%B0%B2%E0%B1%81%E0%B0%97%E0%B1%81-telugu-b590a029a565
+
 
 # Installation (Code is tested on Python 3.7.3)
 
