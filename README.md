@@ -7,6 +7,7 @@ In this repository, I demo some of the applications of language modeling for Tel
 
 ```pip install -r requirements.txt```
 
+I will not actively maintain this repository. Please expect delays in my response if there are any issues posted.
 
 # Language Model Server
 
